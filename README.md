@@ -28,7 +28,7 @@ ATTACH 'md:clean_amazondb' AS clean_amazondb;
 USE clean_amazondb;
 ```
 
-Run the scripts in numeric order from the [SQL analyses](sql/) directory.
+Run the scripts in numeric order from the [SQL analysis](sql/) directory.
 
 ## Business Problems
 
