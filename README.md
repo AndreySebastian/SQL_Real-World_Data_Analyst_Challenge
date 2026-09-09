@@ -61,7 +61,7 @@ This project answers practical marketplace questions:
 
 - [data/amazon_products_cleaned.csv](data/amazon_products_cleaned.csv) - Cleaned product dataset attached to `clean_amazondb`
 
-### SQL analyses
+### SQL analysis
 
 - [sql/01_data_quality.sql](sql/01_data_quality.sql) - Validates product identifiers, missing values, prices, discounts, and rating ranges.
 - [sql/02_basic_product_analysis.sql](sql/02_basic_product_analysis.sql) - Finds product price, rating, review-volume, and overall summary statistics.
